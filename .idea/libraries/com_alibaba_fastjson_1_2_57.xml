@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="com.alibaba:fastjson:1.2.57" type="repository">
+    <properties maven-id="com.alibaba:fastjson:1.2.57" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.57/fastjson-1.2.57.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/trove4j/core/3.1.0/core-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.57/fastjson-1.2.57-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/trove4j/core/3.1.0/core-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.57/fastjson-1.2.57-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/trove4j/core/3.1.0/core-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
